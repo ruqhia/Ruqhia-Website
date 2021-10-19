@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Ruqhia-Website/static/css/main.a617e044.chunk.css",
-    "main.js": "/Ruqhia-Website/static/js/main.f1ac89e8.chunk.js",
-    "main.js.map": "/Ruqhia-Website/static/js/main.f1ac89e8.chunk.js.map",
-    "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.3ef0f13a.js",
-    "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.3ef0f13a.js.map",
-    "static/js/2.1fd543c0.chunk.js": "/Ruqhia-Website/static/js/2.1fd543c0.chunk.js",
-    "static/js/2.1fd543c0.chunk.js.map": "/Ruqhia-Website/static/js/2.1fd543c0.chunk.js.map",
-    "static/js/3.88f2d243.chunk.js": "/Ruqhia-Website/static/js/3.88f2d243.chunk.js",
-    "static/js/3.88f2d243.chunk.js.map": "/Ruqhia-Website/static/js/3.88f2d243.chunk.js.map",
+    "main.js": "/Ruqhia-Website/static/js/main.484d147a.chunk.js",
+    "main.js.map": "/Ruqhia-Website/static/js/main.484d147a.chunk.js.map",
+    "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.dfcdcdda.js",
+    "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.dfcdcdda.js.map",
+    "static/js/2.4eccfc80.chunk.js": "/Ruqhia-Website/static/js/2.4eccfc80.chunk.js",
+    "static/js/2.4eccfc80.chunk.js.map": "/Ruqhia-Website/static/js/2.4eccfc80.chunk.js.map",
+    "static/js/3.47d34b6d.chunk.js": "/Ruqhia-Website/static/js/3.47d34b6d.chunk.js",
+    "static/js/3.47d34b6d.chunk.js.map": "/Ruqhia-Website/static/js/3.47d34b6d.chunk.js.map",
     "index.html": "/Ruqhia-Website/index.html",
     "static/css/main.a617e044.chunk.css.map": "/Ruqhia-Website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.1fd543c0.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.1fd543c0.chunk.js.LICENSE.txt",
+    "static/js/2.4eccfc80.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.4eccfc80.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Ruqhia-Website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ef0f13a.js",
-    "static/js/2.1fd543c0.chunk.js",
+    "static/js/runtime-main.dfcdcdda.js",
+    "static/js/2.4eccfc80.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.f1ac89e8.chunk.js"
+    "static/js/main.484d147a.chunk.js"
   ]
 }
