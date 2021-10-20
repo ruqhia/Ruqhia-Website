@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Ruqhia-Website/static/css/main.e8da4e86.chunk.css",
-    "main.js": "/Ruqhia-Website/static/js/main.6970ac4a.chunk.js",
-    "main.js.map": "/Ruqhia-Website/static/js/main.6970ac4a.chunk.js.map",
+    "main.js": "/Ruqhia-Website/static/js/main.d7408d24.chunk.js",
+    "main.js.map": "/Ruqhia-Website/static/js/main.d7408d24.chunk.js.map",
     "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.4f50adf9.js",
     "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.4f50adf9.js.map",
     "static/css/2.a95be28f.chunk.css": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.1f1a9429.chunk.js",
     "static/css/main.e8da4e86.chunk.css",
-    "static/js/main.6970ac4a.chunk.js"
+    "static/js/main.d7408d24.chunk.js"
   ]
 }
