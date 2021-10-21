@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Ruqhia-Website/static/css/main.3d1ab6d1.chunk.css",
-    "main.js": "/Ruqhia-Website/static/js/main.e64e97d4.chunk.js",
-    "main.js.map": "/Ruqhia-Website/static/js/main.e64e97d4.chunk.js.map",
+    "main.js": "/Ruqhia-Website/static/js/main.de39c8ce.chunk.js",
+    "main.js.map": "/Ruqhia-Website/static/js/main.de39c8ce.chunk.js.map",
     "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.feacf738.js",
     "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.feacf738.js.map",
     "static/css/2.a95be28f.chunk.css": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css",
-    "static/js/2.574cc40f.chunk.js": "/Ruqhia-Website/static/js/2.574cc40f.chunk.js",
-    "static/js/2.574cc40f.chunk.js.map": "/Ruqhia-Website/static/js/2.574cc40f.chunk.js.map",
+    "static/js/2.a15b6332.chunk.js": "/Ruqhia-Website/static/js/2.a15b6332.chunk.js",
+    "static/js/2.a15b6332.chunk.js.map": "/Ruqhia-Website/static/js/2.a15b6332.chunk.js.map",
     "static/js/3.90f246f4.chunk.js": "/Ruqhia-Website/static/js/3.90f246f4.chunk.js",
     "static/js/3.90f246f4.chunk.js.map": "/Ruqhia-Website/static/js/3.90f246f4.chunk.js.map",
     "index.html": "/Ruqhia-Website/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css.map",
     "static/css/main.3d1ab6d1.chunk.css.map": "/Ruqhia-Website/static/css/main.3d1ab6d1.chunk.css.map",
-    "static/js/2.574cc40f.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.574cc40f.chunk.js.LICENSE.txt",
+    "static/js/2.a15b6332.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.a15b6332.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Ruqhia-Website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.feacf738.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.574cc40f.chunk.js",
+    "static/js/2.a15b6332.chunk.js",
     "static/css/main.3d1ab6d1.chunk.css",
-    "static/js/main.e64e97d4.chunk.js"
+    "static/js/main.de39c8ce.chunk.js"
   ]
 }
