@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Ruqhia-Website/static/css/main.8d4e5392.chunk.css",
-    "main.js": "/Ruqhia-Website/static/js/main.da711c22.chunk.js",
-    "main.js.map": "/Ruqhia-Website/static/js/main.da711c22.chunk.js.map",
-    "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.ceb7cb15.js",
-    "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.ceb7cb15.js.map",
+    "main.js": "/Ruqhia-Website/static/js/main.31091f23.chunk.js",
+    "main.js.map": "/Ruqhia-Website/static/js/main.31091f23.chunk.js.map",
+    "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.feacf738.js",
+    "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.feacf738.js.map",
     "static/css/2.a95be28f.chunk.css": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css",
-    "static/js/2.e551843f.chunk.js": "/Ruqhia-Website/static/js/2.e551843f.chunk.js",
-    "static/js/2.e551843f.chunk.js.map": "/Ruqhia-Website/static/js/2.e551843f.chunk.js.map",
-    "static/js/3.321404fa.chunk.js": "/Ruqhia-Website/static/js/3.321404fa.chunk.js",
-    "static/js/3.321404fa.chunk.js.map": "/Ruqhia-Website/static/js/3.321404fa.chunk.js.map",
+    "static/js/2.574cc40f.chunk.js": "/Ruqhia-Website/static/js/2.574cc40f.chunk.js",
+    "static/js/2.574cc40f.chunk.js.map": "/Ruqhia-Website/static/js/2.574cc40f.chunk.js.map",
+    "static/js/3.90f246f4.chunk.js": "/Ruqhia-Website/static/js/3.90f246f4.chunk.js",
+    "static/js/3.90f246f4.chunk.js.map": "/Ruqhia-Website/static/js/3.90f246f4.chunk.js.map",
     "index.html": "/Ruqhia-Website/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css.map",
     "static/css/main.8d4e5392.chunk.css.map": "/Ruqhia-Website/static/css/main.8d4e5392.chunk.css.map",
-    "static/js/2.e551843f.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.e551843f.chunk.js.LICENSE.txt",
+    "static/js/2.574cc40f.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.574cc40f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Ruqhia-Website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceb7cb15.js",
+    "static/js/runtime-main.feacf738.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.e551843f.chunk.js",
+    "static/js/2.574cc40f.chunk.js",
     "static/css/main.8d4e5392.chunk.css",
-    "static/js/main.da711c22.chunk.js"
+    "static/js/main.31091f23.chunk.js"
   ]
 }
