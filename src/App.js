@@ -8,7 +8,8 @@ const { Meta } = Card;
 
 
 const App = () => (
-  <div className="App">
+  <div className="App" >
+    
  <Layout className="layout">
     <Header>
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['2']} className="menu2">
@@ -233,8 +234,6 @@ const App = () => (
           </Col>                                         
         </Row>        
     </div>
-
-
     <Footer style={{ textAlign: 'center' }}> Created by Ruqhia Frozaan</Footer>
   </Layout>
   </div>
