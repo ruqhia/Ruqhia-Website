@@ -137,7 +137,7 @@ const App = () => (
                 cover={
                   <img
                     alt="example"
-                    src="https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png"
+                    src="https://github.com/ruqhia/Ruqhia-Website/blob/master/Capture2.JPG?raw=true"
                   />
                 }
                 >
@@ -180,7 +180,7 @@ const App = () => (
                 cover={
                   <img
                     alt="example"
-                    src="https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png"
+                    src="https://github.com/ruqhia/Ruqhia-Website/blob/master/Capture.JPG?raw=true"
                   />
                 }
                 >
