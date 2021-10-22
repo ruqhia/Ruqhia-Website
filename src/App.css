@@ -41,26 +41,26 @@
 .site-layout-content {
   min-height: 500px;
   padding: 0px;
-  background: rgb(0, 0, 0);
+  background: rgb(240, 242, 245);
 }
 /*navbar*/
 .menu2 {
-  overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 10; /* Position the navbar at the top of the page */
-  width: 120%; /* Full width */
-  z-index:1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  background-color:white;
 }
 .nameheader{
-  font-size:60px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: bolder;
-  color:rgb(255, 255, 255);
+  font-size:80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:rgb(0,21,41);
   position: absolute;
   -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color:black;
-  left: 360px;
-  bottom: 330px;
+  -webkit-text-stroke-color:rgb(0,21,41);
+  left: 260px;
+  bottom: 230px;
   z-index:3;
 }
 .resumeheader
@@ -68,12 +68,12 @@
   font-size:40px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: bolder;
-  color:black;
+  color:white;
   position: absolute;
   left: 440px;
-  bottom: 285px;
+  bottom: 185px;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:rgb(255, 255, 255);
+  -webkit-text-stroke-color:rgb(0,21,41);
   z-index:3;
 }
 .bigImage { 
@@ -89,37 +89,40 @@
 }
 .Aboutme
 {
-    min-height: 800px;
+    min-height: 650px;
     padding: 0px;
-    background: rgb(0, 0, 0);
+    background: rgb(240, 242, 245);
 }
 .Aboutme h1{ 
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:white;
+  -webkit-text-stroke-color:rgb(0,21,41);
   font-size: 60px;
   text-align: center;
   z-index:3;
-  color: rgb(255, 255, 255);
+  color: rgb(0,21,41);
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .Aboutme p{
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:white;
+  -webkit-text-stroke-color: rgb(0,21,41);
   font-size: 20px;
   text-align: center;
-  color: rgb(255, 255, 255);
-  margin-top:20px;
+  color: rgb(230,198,254);
+  margin-top:-50px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 } 
 .aboutMeText p{
   font-size: 15px;
-  text-align: center;
-  color: rgb(255, 255, 255);
+  text-align: center ;
+  color: rgb(0,21,41);
   width: 1000px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 300px;
+  margin-top:30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 nav ul{
-  background-color: white;
+  background-color: rgb(240, 242, 245);
 }
 
 nav > ul li {
@@ -129,12 +132,12 @@ nav > ul li {
 nav > ul a{
   text-decoration: none;
   padding: 5px 0px 5px 0px ;
-    color:white;
+    color:rgb(0,21,41);
 }
 
  nav> ul li .icon
  {
-   width: 40px;
+   width: 70px;
   border-radius: 100%;
   padding-left: 7px;
   padding-right: 7px;
@@ -146,3 +149,65 @@ nav > ul a{
 .icon:hover{
    filter: brightness(50%);
 }
+.Top4 h1{
+  min-height: 650px;
+  padding: 100px;
+  background: rgb(240, 242, 245);
+}
+.panels {
+  display: inline-block;
+  width: 800px;
+  height: 400px;
+  margin-top: -200px;
+
+}
+.Experience {
+  min-height: 600px;
+  padding: 0px;
+  background: rgb(240, 242, 245);
+}
+.Experience h1, .Projects h1{
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:rgb(0,21,41);
+  font-size: 60px;
+  text-align: center;
+  z-index:3;
+  color: rgb(0,21,41);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Experience h2{
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:rgb(0,21,41);
+  font-size: 25px;
+  text-align: center;
+  z-index:3;
+  text-Align: left;
+  color: rgb(230,198,254);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Experience p, .Projects p{
+  font-size: 15px;
+  text-align: left;
+  color: rgb(0,21,41);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Projects {
+  min-height: 650px;
+  padding: 0px;
+  background: rgb(240, 242, 245);
+}
+
+.Projects h3{
+  font-size: 15px;
+  text-align: left;
+  color: rgb(230,198,254);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0,21,41);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rows{
+  padding-left: 100px;
+}
+
