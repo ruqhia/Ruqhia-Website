@@ -114,7 +114,7 @@ const App = () => (
                   />
                 }
                 >
-              <p>Used SQL to query a dataset on the start-up industry to find what factors affect the success of a start-ups. We queried factors related to start-up members and factors related to the start-up itself. We queried if post-secondary education of start-up members. As well, we queried if city, type and investors had an impact of start-ups. </p>
+              <p>Used SQL to query a dataset on the start-up industry to find what factors affect the success of a start-ups. We queried factors related to start-up members(post-secondary education, background) and factors related to the start-up itself(city, type, investors). </p>
               <h3>Skills: SQL, Teamwork </h3>
             </Card>
           </Col>
@@ -128,7 +128,7 @@ const App = () => (
                   />
                 }
                 >
-               <p>Used machine learning to convert handwritten math expressions to LaTeX format. Used OpenCV to segment and obtain bounding boxes around characters in equations. Transfer learning and Resnet architecture was used to train model and achieve a validation accuracy of 96%</p>
+               <p>Used machine learning to convert handwritten math expressions to LaTeX format. Used OpenCV to segment and obtain bounding boxes around characters in equations. Transfer learning and Resnet architecture was used to train model.</p>
                <h3>Skills: Python(Pytorch), OpenCV, Tranfer learning, Machine learning </h3>
             </Card>
           </Col>
