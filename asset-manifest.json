@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Ruqhia-Website/static/css/main.688ba299.chunk.css",
-    "main.js": "/Ruqhia-Website/static/js/main.3eeced3a.chunk.js",
-    "main.js.map": "/Ruqhia-Website/static/js/main.3eeced3a.chunk.js.map",
-    "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.d47efec2.js",
-    "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.d47efec2.js.map",
+    "main.css": "/Ruqhia-Website/static/css/main.8a2121c3.chunk.css",
+    "main.js": "/Ruqhia-Website/static/js/main.b9689ec3.chunk.js",
+    "main.js.map": "/Ruqhia-Website/static/js/main.b9689ec3.chunk.js.map",
+    "runtime-main.js": "/Ruqhia-Website/static/js/runtime-main.feacf738.js",
+    "runtime-main.js.map": "/Ruqhia-Website/static/js/runtime-main.feacf738.js.map",
     "static/css/2.a95be28f.chunk.css": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css",
-    "static/js/2.37097fd1.chunk.js": "/Ruqhia-Website/static/js/2.37097fd1.chunk.js",
-    "static/js/2.37097fd1.chunk.js.map": "/Ruqhia-Website/static/js/2.37097fd1.chunk.js.map",
-    "static/js/3.f6ff37d4.chunk.js": "/Ruqhia-Website/static/js/3.f6ff37d4.chunk.js",
-    "static/js/3.f6ff37d4.chunk.js.map": "/Ruqhia-Website/static/js/3.f6ff37d4.chunk.js.map",
+    "static/js/2.a15b6332.chunk.js": "/Ruqhia-Website/static/js/2.a15b6332.chunk.js",
+    "static/js/2.a15b6332.chunk.js.map": "/Ruqhia-Website/static/js/2.a15b6332.chunk.js.map",
+    "static/js/3.90f246f4.chunk.js": "/Ruqhia-Website/static/js/3.90f246f4.chunk.js",
+    "static/js/3.90f246f4.chunk.js.map": "/Ruqhia-Website/static/js/3.90f246f4.chunk.js.map",
     "index.html": "/Ruqhia-Website/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/Ruqhia-Website/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.688ba299.chunk.css.map": "/Ruqhia-Website/static/css/main.688ba299.chunk.css.map",
-    "static/js/2.37097fd1.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.37097fd1.chunk.js.LICENSE.txt",
+    "static/css/main.8a2121c3.chunk.css.map": "/Ruqhia-Website/static/css/main.8a2121c3.chunk.css.map",
+    "static/js/2.a15b6332.chunk.js.LICENSE.txt": "/Ruqhia-Website/static/js/2.a15b6332.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Ruqhia-Website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d47efec2.js",
+    "static/js/runtime-main.feacf738.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.37097fd1.chunk.js",
-    "static/css/main.688ba299.chunk.css",
-    "static/js/main.3eeced3a.chunk.js"
+    "static/js/2.a15b6332.chunk.js",
+    "static/css/main.8a2121c3.chunk.css",
+    "static/js/main.b9689ec3.chunk.js"
   ]
 }
